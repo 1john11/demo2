@@ -12,6 +12,7 @@ public class Demo2Application {
         System.out.println("22");
         System.out.println("33");
         System.out.println("hot11");
+        System.out.println("push test");
     }
 
 }
